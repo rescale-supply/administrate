@@ -109,6 +109,8 @@ GEM
     crack (0.4.5)
       rexml
     crass (1.0.6)
+    dartsass-rails (0.4.1)
+      railties (>= 6.0.0)
     database_cleaner (2.0.1)
       database_cleaner-active_record (~> 2.0.0)
     database_cleaner-active_record (2.0.1)
@@ -342,6 +344,7 @@ DEPENDENCIES
   awesome_print
   byebug
   capybara
+  dartsass-rails
   database_cleaner
   dotenv-rails
   factory_bot_rails
